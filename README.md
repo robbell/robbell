@@ -6,7 +6,7 @@ I have a number of personal projects, including [architecture visualisation][c4-
 
 I also occassionally write at [rob-bell.net][website].
 
-Feel free to look around, and get in touch via xxx.
+👀 Feel free to look around.
 
 [website]: https://rob-bell.net
 [c4-diagrams]: https://github.com/robbell/plantuml-c4
