@@ -2,7 +2,7 @@
 
 I'm a Principal Software Engineer from London, working with distributed, high-scale systems and the teams that build them.
 
-I have a number of personal projects, including [architecture visualisation][c4-diagrams], [static-site generation][hi-blog], [.NET templates for Kubernetes][k8s-template] and [games development][7drl].
+Below are a number of my personal projects, including [architecture visualisation][c4-diagrams], [static-site generation][hi-blog], [.NET templates for Kubernetes][k8s-template] and [games development][7drl].
 
 I also occassionally write at [rob-bell.net][website].
 
