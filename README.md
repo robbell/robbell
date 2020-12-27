@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi, I'm Rob
 
-<!--
-**robbell/robbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Principal Software Engineer from London, working with distributed, high-scale systems and the teams that build them.
 
-Here are some ideas to get you started:
+I have a number of personal projects, including [architecture visualisation][c4-diagrams], [static-site generation][hi-blog], [.NET templates for Kubernetes][k8s-template] and [games development][7drl].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also occassionally write at [rob-bell.net][website].
+
+Feel free to look around, and get in touch via xxx.
+
+[website]: https://rob-bell.net
+[c4-diagrams]: https://github.com/robbell/plantuml-c4
+[hi-blog]: https://github.com/robbell/hi
+[k8s-template]: https://github.com/robbell/dotnet-aks-api-template
+[7drl]: https://github.com/robbell/7drl
