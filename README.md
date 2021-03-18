@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Rob
 
-I'm a Principal Software Engineer from London, working with distributed, high-scale systems and the people who build them.
+I'm a Principal Software Engineer from London, working with high-scale, distributed systems and the people who build them.
 
 Below are a number of my personal projects, including [architecture visualisation][c4-diagrams], [static-site generation][hi-blog], [.NET templates for Kubernetes][k8s-template] and [games development][7drl].
 
